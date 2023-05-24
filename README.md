@@ -13,7 +13,7 @@
 **Ownership:** Renounced  
 **Min. eligible holders:** 20  
 **Min. bonus percent:** 1%  
-**Max. bonus percent:** 20%
+**Max. bonus percent:** 20%  
 **Max. possible bonus:** 0.2% Max. supply
 
 ### Limits:

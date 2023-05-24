@@ -6,7 +6,6 @@
 **Initial Supply:** 750,000,000,000,000 HPY  
 **Initial Burn:** 250,000,000,000,000 HPY  
 **Airdrops:** 50,000,000,000,000 HPY  
-**Fees**  
 **Buy fee:** 3% + 2% Burn fee  
 **Sell fee:** 3% + 2% Burn fee  
 **Bonus fee:** 3% (on Bonus win)  

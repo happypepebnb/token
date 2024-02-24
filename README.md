@@ -5,16 +5,16 @@
 **Maximum supply:** 1,000,000,000,000,000 HPY  
 **Initial Supply:** 750,000,000,000,000 HPY  
 **Initial Burn:** 250,000,000,000,000 HPY (v1)  
-**Airdrops:** 50,000,000,000,000 HPY (v1)
+**Airdrops:** 50,000,000,000,000 HPY (v1)  
 **Buy fee:** 3% + 2% Burn fee  
 **Sell fee:** 3% + 2% Burn fee  
 **Bonus fee:** 3% (on Bonus win)  
-**Initial Liquidity:** 95% locked for 6 months (was on v1)
+**Initial Liquidity:** 95% locked for 6 months (was on v1)  
 **Ownership:** Renounced  
-**Min. eligible holders:** 20  
+**Min. eligible holders:** 20 for bonus to be enabled  
 **Min. bonus percent:** 1%  
 **Max. bonus percent:** 20%  
-**Max. possible bonus:** 0.1% Max. supply
+**Max. possible bonus:** 0.1% Max. supply  
 
 ### Abount Bonus
 
